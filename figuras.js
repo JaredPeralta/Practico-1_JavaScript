@@ -73,7 +73,7 @@ function calcularAreaTriangulo(){
     alert(area);
 }
 
-//Circulohola
+//Circulo
 function calcularPerimetroCirculo(){
     const input = document.getElementById("InputCirculo");
     const value = parseInt(input.value);
